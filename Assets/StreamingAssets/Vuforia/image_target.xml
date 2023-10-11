@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="big_cac2" size="10.000000 6.666667" />
+    <ImageTarget name="big_cac1" size="10.000000 6.666667" />
+    <ImageTarget name="big_cac" size="1.000000 0.666667" />
+    <ImageTarget name="download" size="1.000000 1.335052" />
+  </Tracking>
+</QCARConfig>
